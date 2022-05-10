@@ -1,2 +1,5 @@
 */ipynb_checkpoints
 kaggle/datasets/*
+*.csv
+*.pkl
+*.h5
